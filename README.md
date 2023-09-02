@@ -27,8 +27,8 @@
 
 <h3>My stats</h3>
 <div style="display: flex; flex-direction: row;">
- <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=GustavoBreda&show_icons=true&theme=radical" />
- <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBreda&theme=radical&layout=compact" />
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Breda&show_icons=true&theme=radical" />
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Breda&theme=radical&layout=compact" />
 </div>
 
 #
