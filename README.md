@@ -4,7 +4,7 @@
 
 <p> Hello, I'm Gustavo Teixeira Breda, a 21-year-old brazilian enthusiast currently embarked on the journey of pursuing a degree in Computer Science. Driven by a passion for challenges, I've found in programming my way to enhance and solve a variety of problems, whether working collaboratively or on personal projects.</p>
 <p>My journey has guided me through several programming languages, such as C, Python, HTML and JavaScript.</p>
-
+<br>
    <p align="left">
       <a href="https://github.com/AntonioABLima?tab=followers">
          <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Gustavo-Breda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
