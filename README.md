@@ -6,9 +6,9 @@ Hello, I'm Gustavo Teixeira Breda, a 21-year-old brazilian enthusiast currently 
 
    <p align="left">
       <a href="https://github.com/AntonioABLima?tab=followers">
-         <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/GustavoBreda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Gustavo-Breda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/rodrigotriboni1?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GustavoBreda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gustavo-Breda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 #
@@ -31,9 +31,9 @@ Hello, I'm Gustavo Teixeira Breda, a 21-year-old brazilian enthusiast currently 
 </div>
 
 #
-
+https://www.instagram.com/gustavo_tbreda/
 <h3>Where to find me</h3>
-<p> <a href="https://github.com/GustavoBreda" target="_blank" > <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/> </a> 
+<p> <a href="https://www.instagram.com/gustavo_tbreda/" target="_blank" > <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
 </a> <a href="https://www.linkedin.com/in/gustavo-breda-50a4b7276/" target="_blank" > <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 #
