@@ -2,7 +2,7 @@
 
 **`Computer Science student at UFRJ :)`**
 
-<p> Hello, I'm Gustavo Teixeira Breda, a 21-year-old brazilian enthusiast currently embarked on the journey of pursuing a degree in Computer Science. Driven by a passion for challenges, I've found in programming my way to enhance and solve a variety of problems, whether working collaboratively or on personal projects.</p>
+<p> Hello, I'm Gustavo Teixeira Breda, a 21 years-old brazilian enthusiast currently embarked on the journey of pursuing a degree in Computer Science. Driven by a passion for challenges, I've found in programming my way to enhance and solve a variety of problems, whether working collaboratively or on personal projects.</p>
 <p>My journey has guided me through several programming languages, such as C, Python, HTML and JavaScript.</p>
 <br>
    <p align="left">
