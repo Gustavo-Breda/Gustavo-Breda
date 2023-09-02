@@ -31,7 +31,6 @@ Hello, I'm Gustavo Teixeira Breda, a 21-year-old brazilian enthusiast currently 
 </div>
 
 #
-https://www.instagram.com/gustavo_tbreda/
 <h3>Where to find me</h3>
 <p> <a href="https://www.instagram.com/gustavo_tbreda/" target="_blank" > <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> 
 </a> <a href="https://www.linkedin.com/in/gustavo-breda-50a4b7276/" target="_blank" > <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
