@@ -6,9 +6,9 @@
 <p>My journey has guided me through several programming languages, such as C, Python, HTML and JavaScript.</p>
 <br>
    <p align="left">
-      <a href="https://github.com/AntonioABLima?tab=followers">
+      <a href="https://github.com/Gustavo-Breda?tab=followers">
          <img alt="followers" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Gustavo-Breda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/rodrigotriboni1?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Gustavo-Breda?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Gustavo-Breda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
