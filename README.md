@@ -14,6 +14,7 @@
 
 #
 <h3>Languages Skills</h3>
+<br/>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-03589b?style=flat-square&logo=C&logoColor=white" />
   <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
@@ -27,10 +28,9 @@
 #
 
 <h3>My stats</h3>
+<br/>
 <div style="display: flex; flex-direction: row;">
  <img style="height: auto; width: 50%; "class="img" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Breda&show_icons=true&theme=radical" />
 <br/>
  <img style="height: auto; width: auto; "class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Breda&size_weight=0.5&count_weight=0.5&theme=radical" />
 </div>
-
-#
